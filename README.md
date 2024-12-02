@@ -14,11 +14,9 @@ This project analyzes unemployment trends and rates, particularly the rise in un
 
 ## How to Use
 1. Clone this repository.
-2. Install the required dependencies listed in `requirements.txt`.
+2. Install the necessary dependencies (e.g., Pandas, NumPy, Matplotlib, Seaborn).
 3. Run the Jupyter Notebook file to perform the analysis.
 
 ## Outputs
 - Interactive graphs showcasing trends and patterns in unemployment rates.
 - Summary statistics highlighting key findings.
-
----
